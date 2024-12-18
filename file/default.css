@@ -55,6 +55,7 @@ a {
 }
 #clock .digit {
   font-size: 64px;
+  color: yellow;
 }
 #canvas {
   margin: 0 auto;
